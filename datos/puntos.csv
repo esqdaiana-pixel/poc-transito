@@ -1,0 +1,35 @@
+nombre,categoria,latitud,longitud,valor,descripcion
+RD076 Camacua,Alto,-34.63683,-58.45379,5406,AU 25 de Mayo - km 1.3
+RD077 Curapaligue,Alto,-34.63571,-58.4467,5511,AU 25 de Mayo - km 2.0
+RD078 Emilio Mitre,Alto,-34.6322,-58.44112,4654,AU 25 de Mayo - km 2.6
+RD079 Viel,Alto,-34.62927,-58.43057,4960,AU 25 de Mayo - km 3.9
+RD080 Boedo,Medio,-34.62711,-58.41344,4154,AU 25 de Mayo - km 5.3
+RD081 Jujuy,Bajo,-34.62558,-58.40108,3381,AU 25 de Mayo - km 6.4
+RD082 Pasco,Alto,-34.62455,-58.39649,4476,AU 25 de Mayo - km 6.9
+RD083 Sarandi,Bajo,-34.62382,-58.39339,3449,AU 25 de Mayo - km 7.0
+RD084 San José,Alto,-34.62288,-58.38581,4255,AU 25 de Mayo - km 7.9
+RD165 Dorrego,Alto,-34.56336,-58.41529,6391,AU 4 Lugones - km 4.7
+RD166 Ombues,Alto,-34.56044,-58.41908,6728,AU 4 Lugones - km 5.5
+RD168 Juramento,Alto,-34.54977,-58.43602,5643,AU 4 Lugones - km 7.2
+RD169 Monroe,Alto,-34.54629,-58.44224,7167,AU 4 Lugones - km 8.1
+RD171 Esma,Alto,-34.53767,-58.45967,6921,AU 4 Lugones - km 9.9
+RD190 Campora A,Bajo,-34.67249,-58.4378,1098,AU 7 Campora - km 3.5
+RD155 KDT A,Bajo,-34.56917,-58.40464,2823,AU 8 Illia A - km 3.5
+RD125 Osv.Cruz A,Medio,-34.65134,-58.37255,3659,AU 9 de Julio Sur - km 0.2
+RD127 Ben.Q.Martín A,Medio,-34.64357,-58.37568,3673,AU 9 de Julio Sur - km 1.1
+RD130 Suarez,Medio,-34.6394,-58.37635,4225,AU 9 de Julio Sur - km 1.2
+RD134 Ituzaingo,Medio,-34.6326,-58.37861,3926,AU 9 de Julio Sur - km 2.4
+RD136 Yrigoyen,Bajo,-34.62277,-58.37825,685,AU 9 de Julio Sur - km 3.6
+RD103 Miralla,Bajo,-34.6699,-58.47536,1853,AU Dellepiane - km 2.1
+RD106 Zinny,Bajo,-34.65421,-58.46886,1957,AU Dellepiane - km 3.9
+RD108 Ramal a 27f.,Bajo,-34.65369,-58.46812,532,AU Dellepiane - km 4.3
+RD113 Ingreso DELL2,Bajo,-34.65134,-58.46643,117,AU Dellepiane - km 4.6
+RD052 Acceso AU6,Bajo,-34.63515,-58.52851,420,AU Perito Moreno (AU6) - km 0.2
+RD054 Barragán,Medio,-34.63696,-58.52157,4078,AU Perito Moreno (AU6) - km 0.8
+RD055 Velez,Medio,-34.63505,-58.51075,4082,AU Perito Moreno (AU6) - km 1.8
+RD056 Lope de Vega,Medio,-34.63582,-58.49985,3676,AU Perito Moreno (AU6) - km 2.9
+RD057 Rivadavia,Medio,-34.63684,-58.49536,3953,AU Perito Moreno (AU6) - km 3.4
+RD058 Rodo,Medio,-34.64464,-58.48775,4086,AU Perito Moreno (AU6) - km 4.0
+RD060 Gaitán,Medio,-34.64922,-58.47484,4016,AU Perito Moreno (AU6) - km 5.6
+RD062 Transición A,Bajo,-34.64937,-58.46599,2556,AU Perito Moreno (AU6) - km 6.5
+RD063 Dist.Dellepian,Bajo,-34.64993,-58.4675,370,AU Perito Moreno (AU6) - km 6.3
